@@ -1,0 +1,15 @@
+.form-container {
+   border-top: 1px solid #09c;
+   border-bottom: 1px solid #09c;
+}
+input {
+   border: 1px solid #DDD !important;
+   border-radius: 5px !important;
+   display: block !important;
+   padding: 5px !important;
+   border-color: none !important;
+}
+.form-container div {
+   margin: 0px auto;
+   width: 90% !important;
+}
